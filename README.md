@@ -83,3 +83,7 @@ kubectl get svc
 ## access the service 
 
 minikube service appnamehere
+
+## stop kub...
+
+kubectl stop (-f FILENAME | TYPE (NAME | -l label | --all))
